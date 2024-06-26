@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/opencore-clone/static/css/main.be2be6be.css",
-    "main.js": "/opencore-clone/static/js/main.b20c0c6e.js",
-    "index.html": "/opencore-clone/index.html",
-    "main.be2be6be.css.map": "/opencore-clone/static/css/main.be2be6be.css.map",
-    "main.b20c0c6e.js.map": "/opencore-clone/static/js/main.b20c0c6e.js.map"
+    "main.css": "/careplus-site/static/css/main.be2be6be.css",
+    "main.js": "/careplus-site/static/js/main.b20c0c6e.js",
+    "index.html": "/careplus-site/index.html",
+    "main.be2be6be.css.map": "/careplus-site/static/css/main.be2be6be.css.map",
+    "main.b20c0c6e.js.map": "/careplus-site/static/js/main.b20c0c6e.js.map"
   },
   "entrypoints": [
     "static/css/main.be2be6be.css",
