@@ -2,9 +2,9 @@ import { Container } from "../components/container";
 
 const Slider = () => {
   return (
-    <section className="flex w-full justify-center bg-[#FDF7F1] pt-24">
+    <section className="flex w-full justify-center bg-[#FDF7F1] pt-8 xl:pt-24">
       <Container className={"w-full"}>
-        <div className="mb-12 flex flex-col items-center justify-center text-center">
+        <div className="flex flex-col items-center justify-center text-center xl:mb-12">
           <p className="CarePlus on instagram text-[18px]">
             Careplus on Instagram
           </p>

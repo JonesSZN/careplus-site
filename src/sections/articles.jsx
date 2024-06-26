@@ -1,16 +1,6 @@
 import { Top } from "../components/top";
 import { Container } from "../components/container";
 
-const Articles = () => {
-  return (
-    <section className="flex w-full justify-center bg-[#FDF7F1] py-24">
-      <Container>
-        <Content />
-      </Container>
-    </section>
-  );
-};
-
 const Content = () => {
   const CARD_DATA = [
     {
@@ -61,6 +51,16 @@ const Content = () => {
         ))}
       </div>
     </div>
+  );
+};
+
+const Articles = () => {
+  return (
+    <section className="flex w-full justify-center bg-[#FDF7F1] py-12 xl:py-24">
+      <Container>
+        <Content />
+      </Container>
+    </section>
   );
 };
 
