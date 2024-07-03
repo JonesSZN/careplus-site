@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/care-site/static/css/main.ef61c95f.css",
-    "main.js": "/care-site/static/js/main.be24579d.js",
-    "index.html": "/care-site/index.html",
-    "main.ef61c95f.css.map": "/care-site/static/css/main.ef61c95f.css.map",
-    "main.be24579d.js.map": "/care-site/static/js/main.be24579d.js.map"
+    "main.css": "/careplus-site/static/css/main.ef61c95f.css",
+    "main.js": "/careplus-site/static/js/main.be24579d.js",
+    "index.html": "/careplus-site/index.html",
+    "main.ef61c95f.css.map": "/careplus-site/static/css/main.ef61c95f.css.map",
+    "main.be24579d.js.map": "/careplus-site/static/js/main.be24579d.js.map"
   },
   "entrypoints": [
     "static/css/main.ef61c95f.css",
